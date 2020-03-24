@@ -1,0 +1,3 @@
+github repo: https://github.com/Abalagu/typo
+heroku app link: https://guarded-escarpment-25182.herokuapp.com/
+
